@@ -13,7 +13,7 @@
 
 ## 🌐 Live Demo
 
-👉 https://thilini28.github.io/calculator/
+👉 https://thilini28.github.io/Calculator/
 
 ## 📸 Preview
 <p align="center"> <img src="screenshot.png" width="380"> </p>
