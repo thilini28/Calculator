@@ -19,7 +19,7 @@
 <p align="center"> <img src="screenshot.png" width="380"> </p>
 
 ## ⚙️ Installation
-1. git clone https://github.com/your-username/calculator.git
+1. git clone https://github.com/thilini28/calculator.git
 2. cd calculator
 3. start `index.html`
 
