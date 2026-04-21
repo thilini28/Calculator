@@ -43,7 +43,3 @@ If you like this project, give it a ⭐ on GitHub — it helps a lot!
 
 Status: Completed ✅
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License
